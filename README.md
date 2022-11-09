@@ -1,3 +1,3 @@
 # JavaScript-project
 
-03-Challange
+03-Challenge
